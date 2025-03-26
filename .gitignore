@@ -5,3 +5,4 @@ Pods/
 xcuserdata/
 *.xcworkspace/
 GoogleService-Info.plist
+ios-starter/swift-starter/FriendlyChatSwift/GoogleService-Info.plist
